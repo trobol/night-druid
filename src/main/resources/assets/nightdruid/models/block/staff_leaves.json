@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "nightdruid:block/staff_leaves"
+  }
+}
